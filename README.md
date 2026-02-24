@@ -1,3 +1,4 @@
+![Placeholder Logo](https://via.placeholder.com/200x80.png?text=vidiqo)
 # vidiqo
 
 Entrepreneur & builder | Founder of [vidiqo.com](https://vidiqo.com)  
