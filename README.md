@@ -12,8 +12,12 @@ Building scalable AI-powered tools for video creation and commerce.
 Helping creators and businesses unlock new opportunities with intelligent automation.  
 
 ## 🌍 Community
+We believe in building together.  
 Open to collaboration with developers, creators, and businesses worldwide.  
 Active in open-source projects and developer communities.  
+Encouraging knowledge sharing, feedback, and collective growth.  
+Join us in shaping the future of AI-powered video creation and digital commerce.
+  
 
 ## 🔗 Links
 - Website: [vidiqo.com](https://vidiqo.com)  
